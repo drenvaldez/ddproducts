@@ -1,0 +1,1082 @@
+[
+    {
+        "icon": "fa fa-folder fa-fw",
+        "text": "Videos - Premium Courses (Top Brands)",
+        "nodes": [
+            {
+                "text": "Foundr Collections",
+                "icon": "fa fa-folder fa-fw",
+                "nodes":[
+                    {
+                        "text": "Foundr - Advanced Email Marketing",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "Bonus",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 1 UNDERSTANDING HOW EMAILS GET SENT DELIVER",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 2 ADVANCED EMAIL ENGAGEMENT",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 3 AUTOMATION TACTICS _ FOLLOW-UP SEQUENCES",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 4 ADVANCED EMAIL DELIVERABILITY",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Foundr - Ecommerce Masters",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "01-Module 0 - Introduction",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "02-Module 1- Scaling with Facebook Ads (Nick Shack",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "03-Module 2- Product Success Formula + New SKUs (R",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "04-Module 3- Scaling Supply Chain Operations _ Man",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "05-Module 4- Advanced Influencer Marketing (Gretta",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "06-Module 5- Advanced Email Marketing For Ecommerc",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "07-Bonuses- Growth Hacks Arsenal to Scale Your Sto",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Foundr - Ecommerce Masters 2020",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "01-Module 0 - Introduction",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "02-Module 1- Scaling with Facebook Ads (Nick Shack",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "03-Module 2- Product Success Formula + New SKUs (R",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "04-Module 3- Scaling Supply Chain Operations _ Man",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "05-Module 4- Advanced Influencer Marketing (Gretta",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "06-Module 5- Advanced Email Marketing For Ecommerc",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "07-Bonuses- Growth Hacks Arsenal to Scale Your Sto",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Foundr - Growth Hacking Playbook",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "01-MODULE 1- Growth Hacking Foundations",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "02-MODULE 2- Pull Tactics for Getting Visitors",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "03-MODULE 3- Push _ Product Tactics for Getting Vi",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "04-MODULE 4- How to Activate Members _ Retain User",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "05-MODULE 5- Ideas To Grow On",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Foundr - How to Start Online Side Hustle",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "BONUS SIDE HUSTLE INSIDERS  CASE STUDY INTERVIEWS",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Docs",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 1 FOUNDATIONS  GATHERING AMMO",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 2 TESTING _ VALIDATING YOUR OFFER WITH A BE",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 3 CLIENT-GETTING ACQUISITION STRATEGIES _ O",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 4 BUILDING YOUR ONLINE PRESENCE  BRAND",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 5 THE ART OF THE PITCH POSITIONING PERSUASI",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 6 DELIVERING EXCELLENT SERVICE MANAGING CLI",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 7 BONUSES",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "PDF",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Libcourse Membership - LibCourse.html",
+                                "icon": "fa fa-file fa-fw"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Foundr - Infinite Scale by Nathan Chan",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "1 ONLINE BUSINESS FUNDAMENTALS",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "2 VALIDATING YOUR COURSE IDEA",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "3 BUILDING YOUR AUDIENCE",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "4 PRODUCING YOUR COURSE CONTENT",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "5 TECH SETUP",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "6 LAUNCH _ MARKETING",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "7 BONUSES",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "8 Live Implementation Call",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "9 Resources",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Infinite Scale - Foundr Premium.jpg",
+                                "icon": "fa fa-file-image-o fa-fw"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Foundr - Influencer Magnet",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "Module 1 - Determining The Influencer",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 2 - Influencer Details",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 3 - The Pitch",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 4 - The Connection",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Welcome.TS",
+                                "icon": "fa fa-file fa-fw"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Foundr - The Ultimate List Building Bundle",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "Landing Page Formula by Foundr",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 1 Getting Started (Must Haves Before You Bu",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 2 List Building Tactics To Get Your First 1",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 3 Advanced Tactics To Grow Your List Even M",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 4 What_s Next - Now That You_ve Built Your ",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "#6747 - _List Building Mastery - Foundr Premium.jpg",
+                                "icon": "fa fa-file-image-o fa-fw"
+                            },
+                            {
+                                "text": "#6748 - _Welcome_ The Power of Email List Build.jpg",
+                                "icon": "fa fa-file-image-o fa-fw"
+                            },
+                            {
+                                "text": "#6749 - _How We 20x’ed Our Conversion Rate - Fo.jpg",
+                                "icon": "fa fa-file-image-o fa-fw"
+                            },
+                            {
+                                "text": "1-WELCOME- THE POWER OF EMAIL LIST BUILDING.MP4",
+                                "icon": "fa fa-file-video-o fa-fw"
+                            },
+                            {
+                                "text": "2-HOW WE 20X’ED OUR CONVERSION RATE.MP4",
+                                "icon": "fa fa-file-video-o fa-fw"
+                            },
+                            {
+                                "text": "13+Double+Opt-Ins+That+Dont+Suck.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "50++Creative+Opt-In+Forms.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "Confirmation+Emails+-+Swipe+Files.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "List+Building+Mastery-Workbook+(all+modules).pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "SPECIAL BONUS- INSTAGRAM GROWTH 2018 KEYNOTE WI.MP4",
+                                "icon": "fa fa-file-video-o fa-fw"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "How To Master YouTube Ads by Tommie Powers Foundr",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "Bonuses",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 1",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 2",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 3",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 4",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 5",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "MODULE 6",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "#8977 - _How To Master YouTube Ads – Foundr_.jpg",
+                                "icon": "fa fa-file-image-o fa-fw"
+                            },
+                            {
+                                "text": "#8978 - _How To Master YouTube Ads – Foundr_.jpg",
+                                "icon": "fa fa-file-image-o fa-fw"
+                            },
+                            {
+                                "text": "Libcourse Membership - LibCourse.html",
+                                "icon": "fa fa-file fa-fw"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Mitch Harper (Foundr) - Successful Tech Startup in",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "Module 1 - Starting Up The Right Way",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 2 - Finding A Painkiller Idea",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 3 - Product Validation",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 4 - Product Development and Design",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 5 - Product Management",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 6 - Getting Your First 100 Paying Customers",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            },
+                            {
+                                "text": "Module 7 - Recommended Launch Framework",
+                                "icon": "fa fa-folder-o fa-fw",
+                                "class": "unavailable"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "Midjourney Collections",
+                "icon": "fa fa-folder fa-fw",
+                "nodes":[
+                    {
+                        "text": "Prompts and Keywords",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "nodes":[
+                            {
+                                "text": "20_CUSTOMIZABLE_NURSERY_PROMPTS_FOR_MIDJOURNEY_.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "30_MAGICAL_CLIPARTS_PROMPTS_FOR_MIDJOURNEY_HELP.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "30_MANGA_ANIME_PROFESSIONNAL_PROMPTS_FOR_MIDJOU.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "40_WEBDESIGN_CUSTOMIZABLE_PROMPTS_FOR_MIDJOURNE.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "60_BOTANICAL_FLOWER_TREES_PROFESSIONNAL_PROMPTS.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "100_PHOTOGRAPHER_PROMPTS_PROFESSIONNAL_PROMPTS_.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "120_ARTISTS_PROMPTS__FOR_MIDJOURNEY_HELPED_BY_D.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "AESTHETICS_KEYWORDS_BOOK_FOR_MIDJOURNEY_HELPED_.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "AESTHETICS_KEYWORDS_BOOK_FOR_MIDJOURNEY_HELPED_(1).pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "AESTHETICS_KEYWORDS_BOOK_FOR_MIDJOURNEY_HELPED_(2).pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "AESTHETICS_KEYWORDS_BOOK_FOR_MIDJOURNEY_HELPED_(3).pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "AESTHETICS_KEYWORDS_BOOK_FOR_MIDJOURNEY_HELPED_(4).pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            },
+                            {
+                                "text": "CUTE_ANIMALS_PROMPTS_FOR_MIDJOURNEY_HELPED_BY_D.pdf",
+                                "icon": "fa fa-file-pdf-o fa-fw"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "ULTIMATE_MIDJOURNEY_GUIDE_PROMPTS_HELPED_BY_DES.pdf",
+                        "icon": "fa fa-file-pdf-o fa-fw"
+                    }
+                ]
+            },
+            {
+                "text": "Mindvalley Collections",
+                "icon": "fa fa-folder fa-fw",
+                "nodes":[
+                    {
+                        "text": "Mindvalley -  Beyond Fasting by Ronan Oliviera",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - 5 Days To A Powerful Memory by Jim Kw",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - 7 Days To Breaking Up With Sugar by E",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - 10x Fitness by Lorenzo Delano and Ron",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - 12 Dimensions of Mastery",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - 24 Hours of Love or Above (Quest)",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Abundance For Life deluxe by Paul Sch",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Advanced Home Workouts by Ronan Diego",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Awaken The Species",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Be a Modern Money Master",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Be Extraordinary by Vishen Lakhiani",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Becoming Focused Indistractable by Ni",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Becoming Limitless by Vishen Lakhiani",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Being an Exponential Coach by Rich Li",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Beyond by Ajit Nawalkha",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Chakra Healing by Anodea Judith",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Conscious Parenting Mastery by Dr. Sh",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Conscious Uncoupling by Katherine Woo",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Consciousness Engineering Vishen Lakh",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - David Goggins - Cultivate The Mind Of",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Dream Sculpting",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Duality by Jeffrey Allen",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Energy Medicine",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Envisioning Method All Materials by V",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Everyday Bliss by Paul McKenna",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Evolution Of Health And Fitness Maste",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Evolutionary Women by Barbara M. Hubb",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Experience Lucid Dreaming by Charlie ",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Extraordinary By Design by Vishen Lak",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Feng Shui for Life",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - First Serve by Ajit Nawalkha",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Focus Blueprint by Jim Kwik",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Hero Genius Legends by Robin Sharma",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Holistic Coaching by Margaret Moore",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - I am Enough by Marisa Peer",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Impacting Leaders by Michael Neill",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Instant Transformational Hypnotherapy",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Kwik Recall by Jim Kwik",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Life Visioning Mastery by Michael Bec",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Lifebook by Jon _ Missy Butcher",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Limitless Book by Jim Kwik",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Little Humans",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Live By Your Own Rules By Kristina Ma",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Love or Above by Christie Marie Sheld",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Memory Course by Jim Kwik",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Modern Qi Gong by Lee Holden",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Money EQ by Ken Honda",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Mystic Brain by Dawson Church",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Omharmonics by Vishen Lakhiani",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Philosophers Notes by Brian Johnsons",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Quantum Jumping by Burt Goldman",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Rapid Transformational Hypnotherapy f",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Rapid Transformational Therapy (RTT) ",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Reading Course by Jim Kwik",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Sadhguru - A Yogi’s Guide to Joy",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Silva Life System 2.0",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Silva Manifesting – Awakening the Rea",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Speak To Inspire",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Super Reading by Jim Kwik",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Superbrain by Jim Kwik",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - T.Harv Eker - The Spiritual Laws Of M",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Tantra Touch",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Tapping into Emotional Mastery by Jen",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The 3 Keys to Transformative Learning",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The 6 Phase Meditation by Vishen Lakh",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Art of Astral Projection by Jade ",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Book of Coaching Book",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Immunity Blueprint by Eric Edmead",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Longevity Blueprint by Ben Greenf",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The M Word",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Mastery of Sleep by Dr. Michael B",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Monk Who Sold His Ferrari Book by",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The New Psychology Of Winning by Deni",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Power Of Creative Visualization b",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Quest For Personal Mastery by Sri",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Silva Ultramind ESP System",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Silva UltraMind System by Jose Si",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Uncompromised Life by Marisa Peer",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - The Way of the Kettlebell by Steve Co",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Total Transformation Training by Chri",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Ultimate Leadership by Keith Ferrazzi",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Unlimited Abundance",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Unlocking Transcendence",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Vishen Lakhiani - The Code of Extraor",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Wild Woman Sensuality with Rachel Pri",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - WildFit by Eric Edmeades",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Wim Hof Method by Wim Hof",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley - Yoga Quest By Cecilia Sardeo",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Mindvalley Masterclass Pack",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    },
+                    {
+                        "text": "Minvdalley - The Habit of Ferocity by Steven Kotle",
+                        "icon": "fa fa-folder-o fa-fw",
+                        "class": "unavailable",
+                        "nodes":[]
+                    }
+                ]
+            }                    
+        ]
+    }    
+]
