@@ -79,8 +79,14 @@
                     {
                         "text": "1300+ Funny Animal Cat",
                         "icon": "fa fa-folder fa-fw",
-                        "class": "unavailable" , 
-                        "nodes": []                                       
+                        "class": "unavailable", 
+                        "nodes": [
+                            {
+                                "text": "Click to visit the demo page (LIKE, FOLLOW & SHARE!)",
+                                "icon": "fa fa-facebook-square fa-fw",
+                                "href": "https://www.facebook.com/felineflicks"
+                            }                            
+                        ]                                       
                     },      
                     {
                         "text": "2500+ Car Reels Bundle",
