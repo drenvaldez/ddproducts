@@ -14,8 +14,13 @@
                             {
                                 "text": "e1",
                                 "icon": "fa fa-folder-o fa-fw",
-                                "class": "unavailable", 
-                                "nodes": []                                       
+                                "nodes": [
+                                    {
+                                        "text": "53 items -> 103.1 MB",
+                                        "icon": "fa fa-file fa-fw",
+                                        "class": "unavailable"                                                                                     
+                                    }
+                                ]                                       
                             },
                             {
                                 "text": "e2",
