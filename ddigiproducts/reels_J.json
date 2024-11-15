@@ -1,7 +1,8 @@
 [
     {
         "text": "...",
-        "icon": "fa fa-folder fa-fw"
+        "icon": "fa fa-folder fa-fw",
+        "nodes": []   
     },
     {
         "text": "Reels Library",
